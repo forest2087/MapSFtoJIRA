@@ -1,15 +1,18 @@
 // ==UserScript==
 // @name        SalesForce Map ID to User
-// @namespace   sf
+// @namespace   https://github.com/forest2087/MapSFtoJIRA
 // @author      Forest Wang <forest2087@gmail.com>
 // @description SalesForce Map ID to User
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // @include     https://eventsnetwork.atlassian.net/*
 // @version     1
+// @update      https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
+// @updateURL       https://yeppha.github.io/downloads/YouTubeCenter.meta.js
+// @downloadURL     https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
 // @grant       none
 // ==/UserScript==
 
-var replaced = $("body").html().replace('00G500000021yC4EAI','Client Support Queue');
+var replaced = $("body").html().replace('00G500000021yC4EAI', 'Client Support Queue');
 var replaced = replaced.replace(/005500000034n93\w{3,}/, 'Alemdar, Ismail');
 var replaced = replaced.replace(/005500000034n93\w{3,}/, 'Alemdar, Ismail');
 var replaced = replaced.replace(/00550000003yTZm\w{3,}/, 'Almendares, Francisco');
