@@ -7,7 +7,7 @@
 // @include     https://eventsnetwork.atlassian.net/*
 // @version     1
 // @update      https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
-// @updateURL       https://yeppha.github.io/downloads/YouTubeCenter.meta.js
+// @updateURL       https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
 // @downloadURL     https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
 // @grant       none
 // ==/UserScript==
