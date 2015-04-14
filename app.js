@@ -4,7 +4,7 @@
 // @author      Forest Wang <forest2087@gmail.com>
 // @description SalesForce Map ID to User
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
-// @include     https://eventsnetwork.atlassian.net/*
+// @include     https://eventsnetwork.atlassian.net/browse/*
 // @version     1
 // @update      https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
 // @updateURL       https://raw.githubusercontent.com/forest2087/MapSFtoJIRA/master/app.js
